@@ -9,7 +9,7 @@ import java.util.Random;
 
 public class FrameVentilador extends JFrame {
 
-    // ************* aquesta classe no es pot MODIFICAR *************
+    // aquesta classe no es pot MODIFICAR!!
 
     private JLabel lblTempActual;
     private JLabel lblTempDeseada;
